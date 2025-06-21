@@ -1,2 +1,1 @@
 In each level of this game, a set of digits will be generated randomly and the user must match all of them exactly in the same order, or they will fail this game and start from the begining. There are 15 levels in total, and there will be one digit in the first level, followed by one more digit in the next level, namely 15 digits in the last level. 
-I used the random, list and if/else we learned in this course in order to finish the project.
